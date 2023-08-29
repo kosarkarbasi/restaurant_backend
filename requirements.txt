@@ -1,0 +1,8 @@
+Django~=4.2.2
+djangorestframework~=3.14.0
+Pillow~=10.0.0
+djangorestframework-simplejwt~=5.2.2
+PyJWT~=2.7.0
+django-phonenumber-field~=7.1.0
+phonenumbers~=8.13.18
+django-smart-selects~=1.6.0
