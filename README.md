@@ -1,4 +1,4 @@
-# Restaurant Django web Application
+# Restaurant React / Django web Application
 
 ## Features
 
